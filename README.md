@@ -1,6 +1,10 @@
 # Crime_Prediction_XGBoost
 
-https://github.com/shiva201/Crime_Prediction_XGBoost.git
+github : https://github.com/Shape-Of-AI-Bricks/Crime_Prediction-XGBoost.git
+
+colab : https://colab.research.google.com/drive/1b7lA1UmKQfE8s9knwiOblmXmsXEzP9kJ?usp=sharing
+
+
 
 Main Goal was to predict the type of offence commited based on various paramerters as listed .This Notebook contains the code for build a robust model for the same using XGBoost Technique.Notable Improvements were : F1 score : 0.69 --> 0.71 CV_Score : 0.689 --> 0.724 Reduced Dimensionlatity : 21 --> 13
 
